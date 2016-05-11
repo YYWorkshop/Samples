@@ -1,3 +1,6 @@
 [submodule "app3"]
 	path = app3
 	url = https://github.com/LonelyyHu/MyApplication3.git
+[submodule "GPS_Sample"]
+	path = GPS_Sample
+	url = https://github.com/LonelyyHu/GPS_Smaple.git
