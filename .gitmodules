@@ -1,0 +1,3 @@
+[submodule "app3"]
+	path = app3
+	url = https://github.com/LonelyyHu/MyApplication3.git
