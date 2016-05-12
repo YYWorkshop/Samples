@@ -1,3 +1,6 @@
 [submodule "GPS_Sample"]
 	path = GPS_Sample
 	url = https://github.com/LonelyyHu/GPS_Smaple.git
+[submodule "GoogleMapWork"]
+	path = GoogleMapWork
+	url = git@github.com:dynamicy/GoogleMapWork.git
